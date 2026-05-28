@@ -1,0 +1,6 @@
+{
+  "name": "ArXiv AI Research Portal",
+  "description": "Daily summaries of latest AI research on arXiv with search, field filtering, semantic search, saved library, Telugu explanations, and an interactive human-like holographic voice interface modeled after JARVIS.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
